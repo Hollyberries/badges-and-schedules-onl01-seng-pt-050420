@@ -13,7 +13,7 @@ end
 
 
 def assign_rooms(num)
-  num.each_with_index do |badge, num|
+  num.each_with_index do |num, index|
  "Hello, #{name}! You'll be assigned to room #{index + 1}!"
   end
 end
