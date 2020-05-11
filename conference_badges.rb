@@ -13,6 +13,6 @@ end
 
 
 def assign_rooms(num)
-  rooms.index do |badge, num|
+  assign_rooms.index do |badge, num|
  end
 end
