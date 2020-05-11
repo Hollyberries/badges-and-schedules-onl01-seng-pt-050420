@@ -13,7 +13,7 @@ end
 
 
 def assign_rooms(speakers)
-  speakers.each_with_index.map do |num, index|
+  speakers.each_with_index.map do |name, index|
   speakers << assign_rooms(num, index)
   end
   "Hello, #{name}! You'll be assigned to room #{index + 1}!"
