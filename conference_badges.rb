@@ -14,6 +14,6 @@ end
 
 def assign_rooms(array)
   attendees = []
-  array.index do
+  array.index do |badge, num|
  end
 end
