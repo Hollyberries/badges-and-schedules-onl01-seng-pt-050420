@@ -14,5 +14,5 @@ end
 
 def assign_rooms(num)
   num.each_with_index do |badge, num|
- 
+ "Hello, you"
 end
