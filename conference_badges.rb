@@ -13,6 +13,7 @@ end
 
 
 def assign_rooms(array)
-  array.index do |num|
+  attendees = []
+  array.index do
 
 end
