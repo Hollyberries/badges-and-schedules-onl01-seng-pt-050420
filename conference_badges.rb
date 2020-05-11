@@ -15,5 +15,5 @@ end
 def assign_rooms(array)
   attendees = []
   array.index do
-
+ end
 end
