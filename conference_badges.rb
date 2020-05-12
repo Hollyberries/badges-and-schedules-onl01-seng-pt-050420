@@ -23,5 +23,5 @@ end
 
 def printer(attendees)
 badge.method
-speakers.method
+name, index.method
 end
