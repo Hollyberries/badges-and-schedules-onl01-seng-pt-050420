@@ -22,6 +22,6 @@ end
 
 
 def printer(attendees)
-badge.method
-name, index.method
+batch_badge_creator.method
+assign_rooms.method
 end
