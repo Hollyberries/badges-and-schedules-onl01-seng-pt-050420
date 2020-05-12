@@ -22,4 +22,5 @@ end
 
 
 def printer(badge)
-  
+
+end
