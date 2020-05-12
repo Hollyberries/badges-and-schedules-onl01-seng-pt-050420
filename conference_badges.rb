@@ -22,6 +22,6 @@ end
 
 
 def printer(attendees)
-array.method
+badge.method
 speakers.method
 end
