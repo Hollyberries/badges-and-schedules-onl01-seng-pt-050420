@@ -19,3 +19,6 @@ def assign_rooms(speakers)
   end
   attendees
 end
+
+
+def 
