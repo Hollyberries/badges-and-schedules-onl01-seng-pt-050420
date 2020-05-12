@@ -22,6 +22,6 @@ end
 
 
 def printer(attendees)
-puts array
-puts speakers
+
+speakers
 end
